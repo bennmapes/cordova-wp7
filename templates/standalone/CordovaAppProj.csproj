@@ -103,6 +103,7 @@
     <Compile Include="cordovalib\Commands\DebugConsole.cs" />
     <Compile Include="cordovalib\Commands\ImageExifHelper.cs" />
     <Compile Include="cordovalib\Commands\MimeTypeMapper.cs" />
+    <Compile Include="cordovalib\Commands\AudioFormatsHelper.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
