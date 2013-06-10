@@ -101,6 +101,7 @@
     <Compile Include="cordovalib\Commands\NetworkStatus.cs" />
     <Compile Include="cordovalib\Commands\Device.cs" />
     <Compile Include="cordovalib\Commands\DebugConsole.cs" />
+    <Compile Include="cordovalib\Commands\ImageExifHelper.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
