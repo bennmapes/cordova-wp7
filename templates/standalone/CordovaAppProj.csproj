@@ -99,8 +99,6 @@
     <Compile Include="cordovalib\ScriptCallback.cs" />
     <Compile Include="cordovalib\Commands\BaseCommand.cs" />
     <Compile Include="cordovalib\Commands\NetworkStatus.cs" />
-    <Compile Include="cordovalib\Commands\Device.cs" />
-    <Compile Include="cordovalib\Commands\DebugConsole.cs" />
     <Compile Include="cordovalib\Commands\ImageExifHelper.cs" />
     <Compile Include="cordovalib\Commands\MimeTypeMapper.cs" />
     <Compile Include="cordovalib\Commands\AudioFormatsHelper.cs" />

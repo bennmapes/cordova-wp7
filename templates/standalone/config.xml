@@ -22,9 +22,7 @@
 <widget>
 
   <plugins>
-    <plugin name="Device"/>
     <plugin name="NetworkStatus"/>
-    <plugin name="DebugConsole" />
   </plugins>
 
 
